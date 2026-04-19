@@ -1,0 +1,1 @@
+source "${${(%):-%x}:A:h}/zshrc/.zshrc"
