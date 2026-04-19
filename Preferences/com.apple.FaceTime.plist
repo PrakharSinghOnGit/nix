@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FaceTimeVideoWindowPreference</key>
+	<string>{{448, 298}, {980, 612}}</string>
+	<key>PNRltc</key>
+	<date>2026-04-19T04:44:37Z</date>
+	<key>com.apple.UIKit.UISplitViewController.Root</key>
+	<dict>
+		<key>primaryEdgeSplitViewControllerColumn</key>
+		<integer>0</integer>
+		<key>secondaryEdgeSplitViewControllerColumn</key>
+		<integer>999</integer>
+	</dict>
+	<key>lastPosterKitCacheVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

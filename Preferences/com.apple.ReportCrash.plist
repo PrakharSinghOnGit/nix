@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TrialCache</key>
+	<dict>
+		<key>experiments</key>
+		<array>
+			<dict>
+				<key>deploymentId</key>
+				<integer>400000010</integer>
+				<key>experimentId</key>
+				<string>6913d889c90a1163a054ec41</string>
+				<key>treatmentId</key>
+				<string>6020a259-ac60-46cd-a344-32c902ca3ffc</string>
+			</dict>
+		</array>
+		<key>lastCheckTime</key>
+		<real>798276273.00634205</real>
+		<key>rollouts</key>
+		<array>
+			<dict>
+				<key>deploymentId</key>
+				<integer>240000116</integer>
+				<key>factorPackIds</key>
+				<array>
+					<string>65a81173096f6a1f1ba46525</string>
+				</array>
+				<key>rolloutId</key>
+				<string>648cada15dbc71671bb3aa1b</string>
+			</dict>
+			<dict>
+				<key>deploymentId</key>
+				<integer>240000083</integer>
+				<key>factorPackIds</key>
+				<array/>
+				<key>rolloutId</key>
+				<string>60186475825c62000ccf5450</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

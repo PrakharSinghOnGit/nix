@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Default Settings</key>
+	<dict>
+		<key>com.apple.print.preset.behavior</key>
+		<integer>0</integer>
+		<key>com.apple.print.preset.id</key>
+		<string>Default Settings</string>
+		<key>com.apple.print.preset.settings</key>
+		<dict>
+			<key>Duplex</key>
+			<string>None</string>
+			<key>com.apple.print.PrintSettings.PMDuplexing</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>Last Used Settings</key>
+	<dict>
+		<key>com.apple.print.preset.behavior</key>
+		<integer>0</integer>
+		<key>com.apple.print.preset.id</key>
+		<string>Last Used Settings</string>
+		<key>com.apple.print.preset.settings</key>
+		<dict>
+			<key>Duplex</key>
+			<string>None</string>
+			<key>com.apple.print.PrintSettings.PMDuplexing</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

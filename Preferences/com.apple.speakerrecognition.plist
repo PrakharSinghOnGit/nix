@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Known User Voice Profiles</key>
+	<array>
+		<dict>
+			<key>UserVoiceProfileAppDomain</key>
+			<string>com.apple.siri</string>
+			<key>UserVoiceProfileDateTrained</key>
+			<string>1776438005.180728</string>
+			<key>UserVoiceProfileEnrollmentId</key>
+			<string>1E079C07-4CED-4B86-BE11-401E6933DF42</string>
+			<key>UserVoiceProfileID</key>
+			<string>21A40A90-E2C5-4355-AE93-45A6902FE1ED</string>
+			<key>UserVoiceProfileLocale</key>
+			<string>en-IN</string>
+			<key>UserVoiceProfilePath</key>
+			<string>/var/folders/v3/znlljgqd4kd58sy3h6kx4s4h0000gn/0/com.apple.corespeechd/VoiceTrigger/SAT/com.apple.siri/en-IN/21A40A90-E2C5-4355-AE93-45A6902FE1ED</string>
+			<key>UserVoiceProfilePitch</key>
+			<real>0.0</real>
+		</dict>
+	</array>
+	<key>Voice Profile Store Version</key>
+	<integer>1</integer>
+</dict>
+</plist>

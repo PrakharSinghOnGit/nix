@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CKPerBootTasks</key>
+	<array>
+		<string>CKAccountInfoCacheReset</string>
+	</array>
+	<key>CKStartupTime</key>
+	<integer>1776437273</integer>
+	<key>CloudKitAccountInfoCache</key>
+	<dict>
+		<key>20b491fa3f46f5d8233f3e23bf0afdf4364c691dc136712dc23f960836becb44</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9i
+		amVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwhIlUk
+		bnVsbNsNDg8QERITFBUWFxgZGhsYHBoeGB8gXxAaQWNjb3VudEFjY2Vzc0F1
+		dGhvcml6YXRpb25cV2FscnVzU3RhdHVzXxATQnlwYXNzUENTRW5jcnlwdGlv
+		bl8QE0hhc1ZhbGlkQ3JlZGVudGlhbHNfEBBBY2NvdW50UGFydGl0aW9uXxAk
+		RGV2aWNlVG9EZXZpY2VFbmNyeXB0aW9uQXZhaWxhYmlsaXR5XxASTmVlZHNU
+		b1ZlcmlmeVRlcm1zViRjbGFzc11BY2NvdW50U3RhdHVzWklkZW50aWZpZXJf
+		EBxBY2NvdW50SW5mb1ZhbGlkYXRpb25Db3VudGVyEAEQAggJEAMIgAOAAhBo
+		XxAsUzJwejhBOUI3b2F1MG1ZNFY0OGozT0NYdFZ0RW9nd1pFaFA2dWQwcHBr
+		az3SIyQlJlokY2xhc3NuYW1lWCRjbGFzc2VzXUNLQWNjb3VudEluZm+iJSdY
+		TlNPYmplY3QACAARABoAJAApADIANwBJAEwAUQBTAFgAXgB1AJIAnwC1AMsA
+		3gEFARoBIQEvAToBWQFbAV0BXgFfAWEBYgFkAWYBaAGXAZwBpwGwAb4BwQAA
+		AAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAHK
+		</data>
+	</dict>
+	<key>SHLibraryAvailabilityListenerUserID</key>
+	<string>_2a3729b6fc9d7e2acca05ac0cda0ba3b</string>
+	<key>ShazamEvents.EncodedAccessToken</key>
+	<data>
+	eyJyZXN1bHRzIjp7ImFjY2Vzc0tleSI6IjE3ODAwOTA3MTZfNzM3NTczXyUyRl8wVDNZ
+	Q01tcFFCMWpwUkFtR0FiSGhKVmNqTUh2R2NIbXBlTndUZ2xHWWtZJTNEIiwiZXhwaXJh
+	dGlvblRpbWUiOjE3ODAwOTA3MTZ9fQ==
+	</data>
+</dict>
+</plist>

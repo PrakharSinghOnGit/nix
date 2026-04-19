@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SharedWithYouApps</key>
+	<dict>
+		<key>com.apple.Keynote</key>
+		<true/>
+		<key>com.apple.MobileSMS</key>
+		<true/>
+		<key>com.apple.Notes</key>
+		<true/>
+		<key>com.apple.Numbers</key>
+		<true/>
+		<key>com.apple.Pages</key>
+		<true/>
+		<key>com.apple.Photos</key>
+		<true/>
+		<key>com.apple.Safari</key>
+		<true/>
+		<key>com.apple.TV</key>
+		<true/>
+		<key>com.apple.finder</key>
+		<true/>
+		<key>com.apple.freeform</key>
+		<true/>
+		<key>com.apple.iBooksX</key>
+		<true/>
+		<key>com.apple.podcasts</key>
+		<true/>
+		<key>com.apple.reminders</key>
+		<true/>
+	</dict>
+	<key>SharedWithYouEnabled</key>
+	<true/>
+</dict>
+</plist>

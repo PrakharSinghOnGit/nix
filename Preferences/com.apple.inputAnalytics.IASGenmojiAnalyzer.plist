@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creation</key>
+	<string>IADataStoreDaterange</string>
+	<key>CreationUI</key>
+	<string>IADataStoreDaterange</string>
+	<key>CreationUI_bitfield</key>
+	<integer>0</integer>
+	<key>CreationUI_lastModified</key>
+	<date>2026-04-18T14:00:39Z</date>
+	<key>CreationUI_originDate</key>
+	<date>2026-04-18T14:00:39Z</date>
+	<key>CreationUI_startDate</key>
+	<date>2026-04-18T14:00:39Z</date>
+	<key>CreationUI_version</key>
+	<integer>1</integer>
+	<key>Creation_bitfield</key>
+	<integer>0</integer>
+	<key>Creation_lastModified</key>
+	<date>2026-04-18T14:00:39Z</date>
+	<key>Creation_originDate</key>
+	<date>2026-04-18T14:00:39Z</date>
+	<key>Creation_startDate</key>
+	<date>2026-04-18T14:00:39Z</date>
+	<key>Creation_version</key>
+	<integer>1</integer>
+</dict>
+</plist>

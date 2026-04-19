@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NetworkEnabledAfterBootNotification.lastLaunchBootSessionUUID</key>
+	<string>76614B05-96BF-4D9B-B482-C886E061F6D4</string>
+	<key>extensionsPendingDescriptorRefetch</key>
+	<array/>
+	<key>hasMigratedRemoteWidgetsEnabledState</key>
+	<true/>
+	<key>hasRemoteWidgets</key>
+	<false/>
+	<key>lastEffectiveSignificantTimeChange</key>
+	<date>2026-04-17T14:58:51Z</date>
+	<key>lastKnownTimes</key>
+	<dict>
+		<key>timeZoneSecondsFromGMT</key>
+		<integer>19800</integer>
+		<key>world</key>
+		<real>1776543487.548363</real>
+	</dict>
+	<key>migrationState</key>
+	<data>
+	eyJzeXN0ZW1WZXJzaW9uIjoiMjVFMjUzIiwic3lzdGVtTG9jYWxlIjoiZW5fVVNAcmc9
+	aW56enp6In0=
+	</data>
+</dict>
+</plist>

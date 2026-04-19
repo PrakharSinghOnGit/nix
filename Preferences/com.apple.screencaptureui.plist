@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.AnnotationKit.arrowHeadStyle</key>
+	<integer>2</integer>
+	<key>com.apple.AnnotationKit.brushStyle</key>
+	<integer>0</integer>
+	<key>com.apple.AnnotationKit.fillColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwWVSRudWxs1g0ODxAREhMU
+	FRUVFVYkY2xhc3NUY3NpZFNyZWRVYWxwaGFUYmx1ZVVncmVlboACEA8iAAAAANIXGBka
+	WiRjbGFzc25hbWVYJGNsYXNzZXNXQ0lDb2xvcqIZG1hOU09iamVjdAgRGiQpMjdJTFFT
+	V11qcXZ6gIWLjY+UmaSttbgAAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAwQ==
+	</data>
+	<key>com.apple.AnnotationKit.font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGpCwwTHR4fICEnVSRudWxs0w0O
+	DxARElYkY2xhc3NfEBdOU0ZvbnREZXNjcmlwdG9yT3B0aW9uc18QGk5TRm9udERlc2Ny
+	aXB0b3JBdHRyaWJ1dGVzgAgSgAAAAIAC0xQVDRYZHFdOUy5rZXlzWk5TLm9iamVjdHOi
+	FxiAA4AEohobgAWABoAHXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVB
+	dHRyaWJ1dGUjQDgAAAAAAABZSGVsdmV0aWNh0iIjJCVaJGNsYXNzbmFtZVgkY2xhc3Nl
+	c1xOU0RpY3Rpb25hcnmiJCZYTlNPYmplY3TSIiMoKV8QEE5TRm9udERlc2NyaXB0b3Ki
+	KiZfEBBOU0ZvbnREZXNjcmlwdG9yAAgAEQAaACQAKQAyADcASQBMAFEAUwBdAGMAagBx
+	AIsAqACqAK8AsQC4AMAAywDOANAA0gDVANcA2QDbAPEBBwEQARoBHwEqATMBQAFDAUwB
+	UQFkAWcAAAAAAAACAQAAAAAAAAArAAAAAAAAAAAAAAAAAAABeg==
+	</data>
+	<key>com.apple.AnnotationKit.hasShadow</key>
+	<false/>
+	<key>com.apple.AnnotationKit.highlightStyle</key>
+	<integer>765200</integer>
+	<key>com.apple.AnnotationKit.strokeColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwXVSRudWxs1g0ODxAREhMU
+	FRYVFVYkY2xhc3NUY3NpZFNyZWRVYWxwaGFUYmx1ZVVncmVlboACEA8iAAAAACI/gAAA
+	0hgZGhtaJGNsYXNzbmFtZVgkY2xhc3Nlc1dDSUNvbG9yohocWE5TT2JqZWN0CBEaJCky
+	N0lMUVNXXWpxdnqAhYuNj5SZnqmyur0AAAAAAAABAQAAAAAAAAAdAAAAAAAAAAAAAAAA
+	AAAAxg==
+	</data>
+	<key>com.apple.AnnotationKit.strokeIsDashed</key>
+	<false/>
+	<key>com.apple.AnnotationKit.strokeWidth</key>
+	<real>5</real>
+	<key>com.apple.AnnotationKit.textAttributes</key>
+	<data>
+	e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyODY5Clxjb2NvYXRleHRzY2Fs
+	aW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhl
+	bHZldGljYTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQy
+	NTJcZ3JlZW4zM1xibHVlMzc7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxj
+	MTAwMDAwXGMyMzEzN1xjMTg4MjRcY25hbWUgc3lzdGVtUmVkQ29sb3I7fQpccGFyZFxw
+	YXJkaXJuYXR1cmFsXHFjXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnM0OCBcY2YyIGF9
+	</data>
+	<key>com.apple.AnnotationKit.userDefaultsVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

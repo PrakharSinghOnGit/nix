@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/Users/prakharsingh/Library/Application Support/CallHistoryTransactions/transactions.log</key>
+	<integer>0</integer>
+	<key>CHCallProvidersHashKey</key>
+	<integer>2</integer>
+	<key>CHFacetimeSearchableStatus</key>
+	<integer>3</integer>
+	<key>CHSpotlightReindexingReasonKey</key>
+	<integer>24</integer>
+	<key>CKPerBootTasks</key>
+	<array>
+		<string>CKAccountInfoCacheReset</string>
+	</array>
+	<key>CKStartupTime</key>
+	<integer>1776437273</integer>
+	<key>CloudKitAccountInfoCache</key>
+	<dict>
+		<key>398eff5140da78fb4b523834103f0e6296c9a30adfd98ddfbdfdcaf2b5d5d293</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9i
+		amVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwhIlUk
+		bnVsbNsNDg8QERITFBUWFxgZGhsYHBoeGB8gXxAaQWNjb3VudEFjY2Vzc0F1
+		dGhvcml6YXRpb25cV2FscnVzU3RhdHVzXxATQnlwYXNzUENTRW5jcnlwdGlv
+		bl8QE0hhc1ZhbGlkQ3JlZGVudGlhbHNfEBBBY2NvdW50UGFydGl0aW9uXxAk
+		RGV2aWNlVG9EZXZpY2VFbmNyeXB0aW9uQXZhaWxhYmlsaXR5XxASTmVlZHNU
+		b1ZlcmlmeVRlcm1zViRjbGFzc11BY2NvdW50U3RhdHVzWklkZW50aWZpZXJf
+		EBxBY2NvdW50SW5mb1ZhbGlkYXRpb25Db3VudGVyEAEQAggJEAMIgAOAAhBo
+		XxAsdXAzeTFUTHh5NXkxanhrenlBajlicDhKL2xpdXdja1FOLzB3cUFtU2dT
+		TT3SIyQlJlokY2xhc3NuYW1lWCRjbGFzc2VzXUNLQWNjb3VudEluZm+iJSdY
+		TlNPYmplY3QACAARABoAJAApADIANwBJAEwAUQBTAFgAXgB1AJIAnwC1AMsA
+		3gEFARoBIQEvAToBWQFbAV0BXgFfAWEBYgFkAWYBaAGXAZwBpwGwAb4BwQAA
+		AAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAHK
+		</data>
+	</dict>
+	<key>PNRltc</key>
+	<date>2026-04-17T15:00:00Z</date>
+	<key>SyncHistory</key>
+	<array>
+		<date>2026-04-18T12:46:26Z</date>
+		<date>2026-04-18T10:56:29Z</date>
+		<date>2026-04-18T10:56:29Z</date>
+	</array>
+	<key>com.apple.callhistory.cloud-storage2</key>
+	<dict>
+		<key>previousServerChangeTokenData</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9i
+		amVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUk
+		bnVsbNINDg8QViRjbGFzc18QD0NoYW5nZVRva2VuRGF0YYADgAJPEC8fChAS
+		DAAAWbktxUglAAAAABgBGAAiFgiJjt3CsoCdy7gBEJjJ/M7ukeTOhAEoANIT
+		FBUWWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNDS1NlcnZlckNoYW5nZVRva2Vu
+		ohUXWE5TT2JqZWN0CBEaJCkyN0lMUVNYXmNqfH6AsrfCy+HkAAAAAAAAAQEA
+		AAAAAAAAGAAAAAAAAAAAAAAAAAAAAO0=
+		</data>
+		<key>transactionRecordZoneFetchDate</key>
+		<date>2026-04-17T14:59:51Z</date>
+		<key>transactionRecordZoneSubscriptionCreationDate</key>
+		<date>2026-04-17T14:59:51Z</date>
+	</dict>
+</dict>
+</plist>

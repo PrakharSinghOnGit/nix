@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BeepChecksum</key>
+	<string>1fc0185592ae40207efd961d3ad46ef29c119005364edb71c38844b7a58cd77c</string>
+	<key>CachedVCCaps</key>
+	<integer>17592188010496</integer>
+	<key>EndRecordingDisclosureUtterance</key>
+	<string>This call is no longer being recorded</string>
+	<key>FaceTimeNewCallersFilterMode</key>
+	<integer>0</integer>
+	<key>GondolaLastAccountsChangedState</key>
+	<true/>
+	<key>GreetingsChecksums</key>
+	<dict/>
+	<key>PNRltc</key>
+	<date>2026-04-18T12:46:26Z</date>
+	<key>SiriGreeting</key>
+	<string>Your call has been forwarded to Voicemail. The person you’re trying to reach is not available. At the tone, please record your message. When you have finished recording you may hang up.</string>
+	<key>StartRecordingBeepChecksum</key>
+	<string>1fc0185592ae40207efd961d3ad46ef29c119005364edb71c38844b7a58cd77c</string>
+	<key>StartRecordingDisclosureUtterance</key>
+	<string>This call will be recorded</string>
+	<key>StartTranslationDisclosureUtterance</key>
+	<string>Translation is on for this call</string>
+	<key>StopTranslationDisclosureUtterance</key>
+	<string>Translation ended for this call</string>
+	<key>badge_count_data</key>
+	<data>
+	eyJjYXJyaWVyVm9pY2VtYWlscyI6MCwiZmFjZVRpbWVBdWRpb01lc3NhZ2VzIjowLCJt
+	aXNzZWRGYWNlVGltZUdyb3VwQ2FsbHMiOjAsImxlZ2FjeVZvaWNlbWFpbHMiOjAsIm1p
+	c3NlZFRlbGVwaG9ueUNhbGxzIjowLCJpc0FtYmlndW91cyI6ZmFsc2UsIm1pc3NlZEZh
+	Y2VUaW1lQ2FsbHMiOjAsImZhY2VUaW1lVmlkZW9NZXNzYWdlcyI6MH0=
+	</data>
+	<key>current_remote_disclosure</key>
+	<string>This message has been transcribed. One moment while I notify the caller…_en_US@rg=inzzzz_unknown_0</string>
+	<key>kDefaultsFollowSystemCameraEnabled</key>
+	<true/>
+	<key>kLastIDSFirewallVersionDefaultsKey</key>
+	<integer>1</integer>
+	<key>kLastKnownOutgoingCallerDeviceIdentifier</key>
+	<string>1899BFFE-6149-4BE0-A15B-E2D024330B4B</string>
+	<key>lastSiriVoiceUsedForCallScreeningGreeting</key>
+	<string>Simone</string>
+	<key>messagestore_badge_count_data</key>
+	<data>
+	eyJjYXJyaWVyVm9pY2VtYWlscyI6MCwiZmFjZVRpbWVBdWRpb01lc3NhZ2VzIjowLCJm
+	YWNlVGltZVZpZGVvTWVzc2FnZXMiOjB9
+	</data>
+	<key>registeredProvidersVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

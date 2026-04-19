@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CKPerBootTasks</key>
+	<array>
+		<string>CKAccountInfoCacheReset</string>
+	</array>
+	<key>CKStartupTime</key>
+	<integer>1776437273</integer>
+	<key>CloudKitAccountInfoCache</key>
+	<dict>
+		<key>605313cdb70f1373d7318768184fba97a9055e0e4acbf94663a8ab15cd58c556</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9i
+		amVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwhIlUk
+		bnVsbNsNDg8QERITFBUWFxgZGhsYHBoeGB8gXxAaQWNjb3VudEFjY2Vzc0F1
+		dGhvcml6YXRpb25cV2FscnVzU3RhdHVzXxATQnlwYXNzUENTRW5jcnlwdGlv
+		bl8QE0hhc1ZhbGlkQ3JlZGVudGlhbHNfEBBBY2NvdW50UGFydGl0aW9uXxAk
+		RGV2aWNlVG9EZXZpY2VFbmNyeXB0aW9uQXZhaWxhYmlsaXR5XxASTmVlZHNU
+		b1ZlcmlmeVRlcm1zViRjbGFzc11BY2NvdW50U3RhdHVzWklkZW50aWZpZXJf
+		EBxBY2NvdW50SW5mb1ZhbGlkYXRpb25Db3VudGVyEAEQAggJEAMIgAOAAhBo
+		XxAsNHZjVHA1NDVKUThQT1FxdnlUU0Fja1JoeU9uQ005ZFowY3hZNWtUZnpD
+		MD3SIyQlJlokY2xhc3NuYW1lWCRjbGFzc2VzXUNLQWNjb3VudEluZm+iJSdY
+		TlNPYmplY3QACAARABoAJAApADIANwBJAEwAUQBTAFgAXgB1AJIAnwC1AMsA
+		3gEFARoBIQEvAToBWQFbAV0BXgFfAWEBYgFkAWYBaAGXAZwBpwGwAb4BwQAA
+		AAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAHK
+		</data>
+	</dict>
+	<key>accountMigrationStatus</key>
+	<integer>1</integer>
+	<key>deferredSpotlightReindexingReason</key>
+	<integer>0</integer>
+	<key>lastFetchedContactHistoryToken</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwxYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctIICQoLWF92ZXJzaW9uVl90b2tlbhACgAGpDQ4T
+	HR4fICEoVSRudWxs0g8QERJWJGNsYXNzXxAiTlNQZXJzaXN0ZW50SGlzdG9yeVRva2Vu
+	RGljdGlvbmFyeYAIgALTFBUPFhkcV05TLmtleXNaTlMub2JqZWN0c6IXGIADgASiGhuA
+	BYAGgAdfECQ4NjZCQzU2My0wNjc5LTQwMDAtQTU0QS0xRUE0OEIzQjY2NzFfECRFNDIx
+	OTIwNC0yMTZDLTQyNUEtQTlBNi1BMDA3RkQzRTFEOEYQJxAF0iIjJCVaJGNsYXNzbmFt
+	ZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjJCYnXE5TRGljdGlvbmFyeVhO
+	U09iamVjdNIiIykqXxAZX05TUGVyc2lzdGVudEhpc3RvcnlUb2tlbqMrLCdfEBlfTlNQ
+	ZXJzaXN0ZW50SGlzdG9yeVRva2VuXxAYTlNQZXJzaXN0ZW50SGlzdG9yeVRva2VuAAgA
+	EQAaACQAKQAyADcASQBOAFcAXgBgAGIAbAByAHcAfgCjAKUApwCuALYAwQDEAMYAyADL
+	AM0AzwDRAPgBHwEhASMBKAEzATwBUgFWAWMBbAFxAY0BkQGtAAAAAAAAAgEAAAAAAAAA
+	LQAAAAAAAAAAAAAAAAAAAcg=
+	</data>
+	<key>lastReindexCompletionDate</key>
+	<date>2026-04-18T10:51:15Z</date>
+	<key>lastReindexLocale</key>
+	<string>en_US@rg=inzzzz</string>
+	<key>spotlightIndexVersion</key>
+	<integer>8</integer>
+	<key>tccMigrationVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

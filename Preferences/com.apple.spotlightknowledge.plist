@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SpotlightKnowledgeV2</key>
+	<dict>
+		<key>graphVersionV2</key>
+		<integer>27</integer>
+		<key>sessions</key>
+		<array/>
+		<key>stats</key>
+		<array>
+			<string>19/04/26:currentPid:12</string>
+			<string>19/04/26:didScoreGraph:21</string>
+			<string>19/04/26:completed graph analysis:27</string>
+		</array>
+		<key>version</key>
+		<string>V2</string>
+	</dict>
+</dict>
+</plist>

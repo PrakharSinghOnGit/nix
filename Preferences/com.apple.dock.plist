@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autohide</key>
+	<false/>
+	<key>enterMissionControlByTopWindowDrag</key>
+	<false/>
+	<key>largesize</key>
+	<real>31</real>
+	<key>last-analytics-stamp</key>
+	<array>
+		<real>798130791.69165206</real>
+	</array>
+	<key>launchanim</key>
+	<true/>
+	<key>loc</key>
+	<string>en_US:IN</string>
+	<key>magnification</key>
+	<true/>
+	<key>mod-count</key>
+	<integer>8</integer>
+	<key>orientation</key>
+	<string>left</string>
+	<key>persistent-apps</key>
+	<array/>
+	<key>persistent-others</key>
+	<array/>
+	<key>recent-apps</key>
+	<array/>
+	<key>region</key>
+	<string>IN</string>
+	<key>show-recents</key>
+	<false/>
+	<key>showAppExposeGestureEnabled</key>
+	<true/>
+	<key>showMissionControlGestureEnabled</key>
+	<true/>
+	<key>tilesize</key>
+	<real>128</real>
+	<key>trash-full</key>
+	<false/>
+	<key>version</key>
+	<integer>1</integer>
+	<key>wvous-bl-corner</key>
+	<integer>2</integer>
+	<key>wvous-bl-modifier</key>
+	<integer>0</integer>
+	<key>wvous-br-corner</key>
+	<integer>1</integer>
+	<key>wvous-br-modifier</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ActivePreset</key>
+	<string>Predefined:0</string>
+	<key>AppFirstRun</key>
+	<integer>0</integer>
+	<key>CustomPresets</key>
+	<array/>
+	<key>DockIcon</key>
+	<false/>
+	<key>DontCheckForHelperTool</key>
+	<integer>0</integer>
+	<key>Fahrenheit</key>
+	<integer>0</integer>
+	<key>InterfaceLanguage</key>
+	<string>English.xml</string>
+	<key>License</key>
+	<string></string>
+	<key>MoveToAppsSkip</key>
+	<integer>0</integer>
+	<key>NoFanControlWarning</key>
+	<false/>
+	<key>PreciseTemperature</key>
+	<integer>0</integer>
+	<key>RateOnMacupdateNextDate</key>
+	<string>2026-04-25T23:32:07</string>
+	<key>RateOnMacupdateSkip</key>
+	<integer>0</integer>
+	<key>ShowDrives</key>
+	<integer>1</integer>
+	<key>ShowDrivesExternal</key>
+	<integer>0</integer>
+	<key>ShowEGpuTemp</key>
+	<integer>0</integer>
+	<key>UpdateChecker_Auto</key>
+	<integer>1</integer>
+	<key>UpdateChecker_NextCheck</key>
+	<string>2026-04-19T23:33:54</string>
+	<key>UpdateChecker_SkipVersion</key>
+	<string></string>
+	<key>WindowGeometry</key>
+	<data>
+	AdnQywADAAAAAACWAAABJAAABTAAAAPoAAAAlgAAAUAAAAUwAAAD6AAAAAAAAAAABwgA
+	AACWAAABQAAABTAAAAPo
+	</data>
+	<key>WindowSplitterPosition</key>
+	<array>
+		<string>669</string>
+		<string>481</string>
+	</array>
+	<key>WindowState</key>
+	<data>
+	AAAA/wAAAAD9AAAAAAAABJsAAAKpAAAABAAAAAQAAAAIAAAACPwAAAAA
+	</data>
+	<key>menubarIcon</key>
+	<integer>2</integer>
+	<key>menubarTwoLines</key>
+	<integer>0</integer>
+	<key>trayFan</key>
+	<integer>-1</integer>
+	<key>traySensor</key>
+	<string></string>
+</dict>
+</plist>

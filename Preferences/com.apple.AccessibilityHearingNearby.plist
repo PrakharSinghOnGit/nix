@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AccessibilityHearingNearby</key>
+	<dict>
+		<key>IncomingData</key>
+		<dict>
+			<key>TimeStamp</key>
+			<string>2026-04-17 20:32:33:67</string>
+			<key>TotalCount</key>
+			<integer>2</integer>
+			<key>com.apple.heard.xpc</key>
+			<dict>
+				<key>Count</key>
+				<integer>2</integer>
+				<key>TimeStamps</key>
+				<array>
+					<array>
+						<string>2026-04-17 20:32:33:67</string>
+						<integer>2105</integer>
+						<string>New XPC</string>
+					</array>
+					<array>
+						<string>2026-04-17 20:32:33:67</string>
+						<integer>2105</integer>
+						<string>ComfortSoundsAsset (16777216)</string>
+					</array>
+				</array>
+			</dict>
+		</dict>
+		<key>OutcomingData</key>
+		<dict>
+			<key>TotalCount</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

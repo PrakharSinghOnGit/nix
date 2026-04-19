@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CustomGhosttyIcon2</key>
+	<data>
+	bnVsbA==
+	</data>
+	<key>NSWindowLastPosition</key>
+	<array>
+		<real>0.0</real>
+		<real>0.0</real>
+		<real>1800</real>
+		<real>1130</real>
+	</array>
+	<key>SUAutomaticallyUpdate</key>
+	<true/>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2026-04-18T11:26:00Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>SUUpdateGroupIdentifier</key>
+	<integer>808343556</integer>
+</dict>
+</plist>

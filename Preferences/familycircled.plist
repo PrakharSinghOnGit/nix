@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001963-08-b8d7b1d1-7f24-408d-8a2e-4664709de9bb</key>
+	<data>
+	eyJwcml2YWN5VmVyc2lvbiI6MiwidXBkYXRlZEF0Ijo3OTgxMzA4MzMuNzM2MjI2LCJj
+	YWNoZUR1cmF0aW9uIjo4OTYyOCwic2hhcmVPcHRpb24iOjIsImJpcnRoZGF0ZSI6MTE4
+	NjA3NDAwfQ==
+	</data>
+	<key>CKPerBootTasks</key>
+	<array>
+		<string>CKAccountInfoCacheReset</string>
+	</array>
+	<key>CKStartupTime</key>
+	<integer>1776437273</integer>
+	<key>CloudKitAccountInfoCache</key>
+	<dict>
+		<key>6887e01267b69fc9054a3c5fb2b836f338ed6d6616f76f7d341eca9fea5a1a72</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9i
+		amVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwhIlUk
+		bnVsbNsNDg8QERITFBUWFxgZGhsYHBoeGB8gXxAaQWNjb3VudEFjY2Vzc0F1
+		dGhvcml6YXRpb25cV2FscnVzU3RhdHVzXxATQnlwYXNzUENTRW5jcnlwdGlv
+		bl8QE0hhc1ZhbGlkQ3JlZGVudGlhbHNfEBBBY2NvdW50UGFydGl0aW9uXxAk
+		RGV2aWNlVG9EZXZpY2VFbmNyeXB0aW9uQXZhaWxhYmlsaXR5XxASTmVlZHNU
+		b1ZlcmlmeVRlcm1zViRjbGFzc11BY2NvdW50U3RhdHVzWklkZW50aWZpZXJf
+		EBxBY2NvdW50SW5mb1ZhbGlkYXRpb25Db3VudGVyEAEQAggJEAMIgAOAAhBo
+		XxAsV1VXNDBxdjlnYkFGeFdXVXpuaXlDRlJhWitDN0tnZy94UXY2K2hOaG5a
+		TT3SIyQlJlokY2xhc3NuYW1lWCRjbGFzc2VzXUNLQWNjb3VudEluZm+iJSdY
+		TlNPYmplY3QACAARABoAJAApADIANwBJAEwAUQBTAFgAXgB1AJIAnwC1AMsA
+		3gEFARoBIQEvAToBWQFbAV0BXgFfAWEBYgFkAWYBaAGXAZwBpwGwAb4BwQAA
+		AAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAHK
+		</data>
+	</dict>
+	<key>FamilyMarqueeHasEverBeenCalled</key>
+	<true/>
+	<key>FamilyMemberCount</key>
+	<integer>2</integer>
+	<key>com.apple.FamilyCircle.MemberPhotoRequest404Cache</key>
+	<data>
+	eyJsYXN0NDA0UmVzcG9uc2UiOnsiMDAxMTI1LTA4LWI2M2NmNjQ5LWY2ZGQtNDdkMy1i
+	ODE1LTRhMDFiNmNkM2NiZiI6Nzk4MTMwNjQ4LjgxOTc1OH19
+	</data>
+	<key>com.apple.FamilyCircle.RateLimiter.FAFetchFamilyCircleOperation</key>
+	<data>
+	eyJjbGllbnRzIjp7ImdlbmVyYXRpdmVleHBlcmllbmNlc2QiOnsibW9zdFJlY2VudENh
+	bGwiOjc5ODEzMDY0NC43MTk1OTd9LCJzaGFyaW5nZCI6eyJtb3N0UmVjZW50Q2FsbCI6
+	Nzk4MTMwNjQ0LjUzNDA3N30sIlNjcmVlblRpbWVBZ2VudCI6eyJtb3N0UmVjZW50Q2Fs
+	bCI6Nzk4MTMwNjQ0LjQ4Mzk3OH0sImltYWdlbnQiOnsibW9zdFJlY2VudENhbGwiOjc5
+	ODEzMDY0NS4xNzE0MDZ9LCJhc3Npc3RhbnRkIjp7Im1vc3RSZWNlbnRDYWxsIjo3OTgx
+	MzA2NDUuNDg2Njk1fSwicGFzc2QiOnsibW9zdFJlY2VudENhbGwiOjc5ODEzMDY0NC45
+	ODM3NDF9LCJyYXBwb3J0ZCI6eyJtb3N0UmVjZW50Q2FsbCI6Nzk4MTMwNjQ0LjgxNTM1
+	N319fQ==
+	</data>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/Applications/Raycast.app</key>
+	<true/>
+	<key>/Applications/Raycast.app/Contents/MacOS/Raycast</key>
+	<true/>
+	<key>1::/Applications/Command X.app</key>
+	<true/>
+	<key>1::/Applications/Command X.app/Contents/MacOS/Command X</key>
+	<true/>
+	<key>1::com.sindresorhus.Command-X</key>
+	<true/>
+	<key>com.raycast.macos</key>
+	<true/>
+</dict>
+</plist>

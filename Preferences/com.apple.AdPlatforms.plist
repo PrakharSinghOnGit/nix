@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AccountStateUUID</key>
+	<string>8382E002-24F6-4196-9F1E-D40C12B30D5C</string>
+	<key>AdPlatformsPAAvailable</key>
+	<true/>
+	<key>LatestPAVersion</key>
+	<integer>1</integer>
+	<key>OSVersion</key>
+	<string>26.4.1</string>
+	<key>PersonalizedAdsStateUUID</key>
+	<string>8512600B-45D3-4AF1-8C3D-7676910BEFD9</string>
+	<key>PoolManagerCorrelationID</key>
+	<integer>4</integer>
+	<key>personalizedAdsDefaulted</key>
+	<true/>
+	<key>raidRotated</key>
+	<false/>
+</dict>
+</plist>

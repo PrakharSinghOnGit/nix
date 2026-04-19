@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDSKTAccountKeyFetchMetricDeviceIDDefault</key>
+	<string>FF4AFCA5-A244-4BA7-AD55-42264C00B3BA</string>
+	<key>IDSKTAccountKeyFetchMetricDeviceIDExpirationDefault</key>
+	<real>1776438014.1047511</real>
+	<key>SecondaryRegistrationDisabledDiceRoll</key>
+	<integer>86</integer>
+</dict>
+</plist>

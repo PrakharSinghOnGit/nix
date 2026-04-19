@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATXAppLaunchMonitor_LastLaunchWasHomescreen</key>
+	<false/>
+	<key>ATXEnterLOIUpdateSourceLastRefreshDate</key>
+	<date>2026-04-17T14:55:25Z</date>
+	<key>ATXIntentCache.OSVersion</key>
+	<string>25E253</string>
+	<key>ATXPrivacyPreservingLocationHashDeviceSpecificSalt</key>
+	<data>
+	wWf/jTKlWrU=
+	</data>
+	<key>ATXUpdatePredictionsLoggerCountsDictionary-ActionPredictions</key>
+	<dict>
+		<key>TRIGGER_TYPE_APPLAUNCH</key>
+		<integer>119</integer>
+		<key>TRIGGER_TYPE_CTS</key>
+		<integer>12</integer>
+		<key>TRIGGER_TYPE_OTHER</key>
+		<integer>48</integer>
+		<key>TRIGGER_TYPE_TOTAL</key>
+		<integer>179</integer>
+	</dict>
+	<key>CurrentMirroredPhoneIDSIdentifier</key>
+	<string>1899BFFE-6149-4BE0-A15B-E2D024330B4B</string>
+	<key>NotificationNextAppLaunchRecorder-AppLaunchTimestamp</key>
+	<real>798202947.22876406</real>
+	<key>com.apple.duetexpertd.MMUpdateMonitor.PredictionCount</key>
+	<integer>0</integer>
+	<key>com.apple.duetexpertd.anchormodel.dataharvester.enrollmentmanager::currentEnrollmentUserId</key>
+	<string></string>
+	<key>com.apple.duetexpertd.anchormodel.dataharvester.enrollmentmanager::lastEnrolled</key>
+	<real>1776563164.2217689</real>
+	<key>coreAnalyticsFieldHashSaltKey</key>
+	<string>354D3859-FA5A-4036-8FAC-BF4AF4918978</string>
+	<key>lastMajorOSUpgradeApproximateTimestamp</key>
+	<real>798130523.33789897</real>
+	<key>lastMajorOSUpgradeMajorVersion</key>
+	<integer>26</integer>
+	<key>lastMinorOSUpgradeApproximateTimestamp</key>
+	<real>798130523.33723903</real>
+	<key>lastMinorOSUpgradeMinorVersion</key>
+	<integer>4</integer>
+	<key>luckMigration</key>
+	<true/>
+	<key>modeAppSessionPipelineLastKnownModeKey</key>
+	<integer>2</integer>
+	<key>modeAppSessionPipelineLastRunTimestampKey</key>
+	<real>798260069.10202897</real>
+	<key>modeDeviceUsagePipelineLastKnownModeKey</key>
+	<integer>2</integer>
+	<key>modeDeviceUsagePipelineLastRunTimestampKey</key>
+	<real>798255901.88315594</real>
+	<key>modeScoreFilesUpgradeTimeKey</key>
+	<real>798130523.18529499</real>
+	<key>notificationTelemetryLoggingTimestampKey</key>
+	<real>797598171.35434198</real>
+	<key>showInSearchToSuggestOnHomeScreenMigration</key>
+	<true/>
+	<key>suggestionsMetricsTimestamp</key>
+	<real>0.0</real>
+</dict>
+</plist>

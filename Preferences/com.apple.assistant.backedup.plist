@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cloud Sync Enabled</key>
+	<true/>
+	<key>Cloud Sync Enabled Modification Date</key>
+	<date>2026-04-17T14:57:24Z</date>
+	<key>Cloud Sync User ID</key>
+	<string>_f8d263c0eaaa871fba3bc39b8da89fbf</string>
+	<key>Modification Dates</key>
+	<dict>
+		<key>Logging User Identifier</key>
+		<date>2026-04-17T15:00:00Z</date>
+		<key>Output Voice</key>
+		<date>2026-04-17T15:00:00Z</date>
+		<key>Session Language</key>
+		<date>2026-04-17T15:00:00Z</date>
+		<key>User Identifier</key>
+		<date>2026-04-17T15:00:00Z</date>
+	</dict>
+	<key>Output Voice</key>
+	<dict>
+		<key>Custom</key>
+		<true/>
+		<key>Footprint</key>
+		<integer>2</integer>
+		<key>Gender</key>
+		<integer>1</integer>
+		<key>Language</key>
+		<string>en-IN</string>
+		<key>Name</key>
+		<string>akash</string>
+	</dict>
+	<key>Session Language</key>
+	<string>en-IN</string>
+	<key>SiriAvailability</key>
+	<dict>
+		<key>allCapabilities</key>
+		<dict>
+			<key>fullUODCapabilities</key>
+			<integer>7</integer>
+			<key>hybridCapabilities</key>
+			<integer>1</integer>
+			<key>saeCapabilities</key>
+			<integer>7</integer>
+		</dict>
+		<key>desiredOrchestrationMode</key>
+		<integer>0</integer>
+		<key>isAvailable</key>
+		<false/>
+		<key>siriLocale</key>
+		<string>en-IN</string>
+		<key>unavailabilityReasons</key>
+		<integer>128</integer>
+	</dict>
+</dict>
+</plist>

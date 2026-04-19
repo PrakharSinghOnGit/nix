@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Account Status Server Change Token</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QViRj
+	bGFzc18QD0NoYW5nZVRva2VuRGF0YYADgAJPECEfCgIIBBgAIhYI0JqNqOvm5t/QARD5
+	9OXoxPCBkokBKADSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzXxATQ0tTZXJ2ZXJDaGFu
+	Z2VUb2tlbqIVF1hOU09iamVjdAgRGiQpMjdJTFFTWF5janx+gKSptL3T1gAAAAAAAAEB
+	AAAAAAAAABgAAAAAAAAAAAAAAAAAAADf
+	</data>
+	<key>Accounts</key>
+	<dict>
+		<key>DD3E6DD1-E371-4122-9A04-5E3B8CEEC439</key>
+		<dict>
+			<key>Ace Host</key>
+			<string>mb12sa</string>
+			<key>Build Version</key>
+			<string>25E253</string>
+			<key>Connection Policy</key>
+			<dict>
+				<key>$class</key>
+				<string>ConnectionPolicy</string>
+				<key>$group</key>
+				<string>com.apple.ace.system</string>
+				<key>$v</key>
+				<string>13.0</string>
+				<key>disableMPTCP</key>
+				<false/>
+				<key>enableOptimisticDNS</key>
+				<true/>
+				<key>enableTCPNagle</key>
+				<false/>
+				<key>enableTLS13</key>
+				<false/>
+				<key>enableTLS13ZeroRTT</key>
+				<false/>
+				<key>enableTcpFastOpen</key>
+				<false/>
+				<key>globalTimeout</key>
+				<integer>0</integer>
+				<key>mptcpFallbackPort</key>
+				<integer>-2147483648</integer>
+				<key>policyId</key>
+				<string>odns_odns-on_v1</string>
+				<key>routes</key>
+				<array/>
+				<key>timeToLive</key>
+				<integer>43200</integer>
+			</dict>
+			<key>Connection Policy Date</key>
+			<date>2026-04-17T14:59:59Z</date>
+			<key>Connection Policy Hostname</key>
+			<string>https://guzzoni.apple.com</string>
+			<key>Last Assistant Data Anchor</key>
+			<string>15cdc6dc890b318dcd388011768e589ff3df1a24</string>
+			<key>Validation Expiration</key>
+			<date>2026-04-20T15:59:59Z</date>
+			<key>Validation Version</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>Country Code</key>
+	<string>IN</string>
+	<key>Experiment Identifierinvocation_feedback_experiment</key>
+	<string>3F635C9F-0D02-4836-8A00-1DD148DBD52E</string>
+	<key>Experiment Identifiersiri_vox_sounds_experiment</key>
+	<string>24F299BC-AE9B-466B-986E-BB5D4BB9D3C8</string>
+	<key>Experiment Identifiersiri_vox_tap_to_siri_behavior_experiment</key>
+	<string>80835458-3FCA-4969-A9D0-AFF3ED63131D</string>
+	<key>Flush Session Tickets Cache</key>
+	<false/>
+	<key>Has Set Up Account Status Subscription</key>
+	<true/>
+	<key>Has Set Up Key Value Subscription</key>
+	<true/>
+	<key>Has Set Up MultiUser Shared Record Subscription</key>
+	<true/>
+	<key>Home Automation Server Flow Bypassed</key>
+	<false/>
+	<key>Initial Interstitial Delay</key>
+	<real>3.5</real>
+	<key>Initial Interstitial Delay - stark</key>
+	<real>5</real>
+	<key>Initial Interstitial Delay for VoiceTrigger One-Shot without Audio Ducking</key>
+	<real>1.75</real>
+	<key>Is Siri full UOD Supported</key>
+	<false/>
+	<key>Is Trial config set to disable NL Server Fallback for Domain</key>
+	<false/>
+	<key>Is Trial config set to disable NL Server Fallback for NL</key>
+	<false/>
+	<key>Is Trial config set to disable media entity sync</key>
+	<true/>
+	<key>Is user data sync needed for peer watch</key>
+	<false/>
+	<key>Key Value Server Change Token v2</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QViRj
+	bGFzc18QD0NoYW5nZVRva2VuRGF0YYADgAJPECEfCgMI0AQYACIVCMGQmZacheXyIxCm
+	vvzEppP4270BKADSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzXxATQ0tTZXJ2ZXJDaGFu
+	Z2VUb2tlbqIVF1hOU09iamVjdAgRGiQpMjdJTFFTWF5janx+gKSptL3T1gAAAAAAAAEB
+	AAAAAAAAABgAAAAAAAAAAAAAAAAAAADf
+	</data>
+	<key>Last client experiment check date</key>
+	<date>2026-04-18T03:54:40Z</date>
+	<key>Last server experiment check date</key>
+	<date>2026-04-17T14:55:39Z</date>
+	<key>Manual Endpointing Threshold</key>
+	<real>2</real>
+	<key>MultiUser Shared Data Needs Sync</key>
+	<true/>
+	<key>MultiUser Shared Data Server Change Token</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwRElUkbnVsbNINDg8QViRj
+	bGFzc18QD0NoYW5nZVRva2VuRGF0YYADgAJPECEfCgMIuwQYACIVCKueub764r6vVhCZ
+	t9/m/ZKY34QBKADSExQVFlokY2xhc3NuYW1lWCRjbGFzc2VzXxATQ0tTZXJ2ZXJDaGFu
+	Z2VUb2tlbqIVF1hOU09iamVjdAgRGiQpMjdJTFFTWF5janx+gKSptL3T1gAAAAAAAAEB
+	AAAAAAAAABgAAAAAAAAAAAAAAAAAAADf
+	</data>
+	<key>Myriad Device Adjust</key>
+	<real>-10</real>
+	<key>Myriad Device Class</key>
+	<integer>9</integer>
+	<key>Myriad Device Delay</key>
+	<real>0.0</real>
+	<key>Myriad Device Trump Delay</key>
+	<real>1.75</real>
+	<key>Myriad VTEndtimeDistanceThreshold</key>
+	<real>0.5</real>
+	<key>Server Has Provisioned Myriad</key>
+	<true/>
+	<key>Voice Trigger Needs Sync</key>
+	<true/>
+</dict>
+</plist>

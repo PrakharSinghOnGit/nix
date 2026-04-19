@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMSActivityObserverDateLastCheckedIn</key>
+	<real>1776525914.532577</real>
+	<key>AMSMetricsIdentifierDateLastSynced</key>
+	<real>1776567331.9030709</real>
+	<key>AMSMetricsIdentifierUserRecordName</key>
+	<string>_88e9f12f6ce53a6ca202acfd5ec3a54c</string>
+	<key>AMSMetricsIdentifierZoneCreated</key>
+	<true/>
+	<key>AMSMetricsIdentifierZoneSubscriptionCreated</key>
+	<true/>
+	<key>CKPerBootTasks</key>
+	<array>
+		<string>CKAccountInfoCacheReset</string>
+	</array>
+	<key>CKStartupTime</key>
+	<integer>1776437273</integer>
+	<key>TreatmentStoreLastSynchronizationDate</key>
+	<string>2026-04-19T02:55:30Z</string>
+	<key>dateAnalyticsJetPackLastModified</key>
+	<string>Wed, 1 Apr 2026 23:50:40 GMT</string>
+	<key>dateEngagementJetPackLastModified</key>
+	<string>Mon, 30 Mar 2026 21:47:15 GMT</string>
+	<key>dateJourneysJetPackLastModified</key>
+	<string>Mon, 30 Mar 2026 14:00:46 GMT</string>
+	<key>dateLastRequestedDynamicJetPack</key>
+	<string>Sun, 19 Apr 2026 02:55:31 GMT</string>
+	<key>engagementSourceURLHashes</key>
+	<dict>
+		<key>analytics</key>
+		<string>76051d7550a9bd5ad901db3ea623d909f0073a000ef3e9fa8ec46f453ed828f9</string>
+		<key>internal</key>
+		<string>f8ea1c4afc7a0f6db9233b6fe778b6a7be6ff0a4e93dd913a8555f99e60fb00a</string>
+		<key>journeys</key>
+		<string>7b918ece54f1ef8a22dda82562709ca25d5700e8f8e5e748909878336b67262f</string>
+	</dict>
+	<key>lastSync</key>
+	<dict>
+		<key>analytics</key>
+		<date>2026-04-19T02:55:33Z</date>
+		<key>internal</key>
+		<date>2026-04-19T02:55:30Z</date>
+		<key>journeys</key>
+		<date>2026-04-19T02:55:32Z</date>
+		<key>recommendations</key>
+		<date>2026-04-19T02:55:33Z</date>
+	</dict>
+	<key>lastSyncBuildVersion</key>
+	<string>25E253</string>
+	<key>syncAttempts</key>
+	<dict>
+		<key>analytics</key>
+		<integer>0</integer>
+		<key>internal</key>
+		<integer>0</integer>
+		<key>journeys</key>
+		<integer>0</integer>
+		<key>recommendations</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

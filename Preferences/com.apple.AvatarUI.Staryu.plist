@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVTAvatarHasDisplayedAnimojiSplashScreen</key>
+	<true/>
+	<key>AVTAvatarHasDisplayedCameraEffectsSplashScreen</key>
+	<true/>
+	<key>AVTAvatarHasDisplayedPaddleView</key>
+	<true/>
+	<key>AVTAvatarHasDisplayedSplashScreen</key>
+	<true/>
+	<key>AVTAvatarUILastCacheVersion</key>
+	<integer>356400000</integer>
+	<key>AVTSyncImportDate</key>
+	<date>2026-04-19T01:45:17Z</date>
+	<key>AVTUIGlobalPreferencesFlushStickersCache</key>
+	<true/>
+</dict>
+</plist>
