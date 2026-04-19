@@ -59,6 +59,7 @@
 
       # Homebrew management (GUI Apps)
         homebrew = {
+          enableZshIntegration = true;
           enable = true;
           onActivation.autoUpdate = true;
           onActivation.upgrade = true;
@@ -125,7 +126,7 @@
           {
             home-manager.useGlobalPkgs = true;
             home-manager.useUserPackages = true;
-            home-manager.users.${user} = import ./zshrc/prakharsingh.nix;
+            home-manager.users.${user} = import ./prakharsingh.nix;
           }
         ];
       };
